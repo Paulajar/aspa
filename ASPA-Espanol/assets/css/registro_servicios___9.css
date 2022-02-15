@@ -1,0 +1,517 @@
+.mediaViewInfo {
+	--web-view-name: registro servicios – 9;
+	--web-view-id: registro_servicios__9;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: registro_servicios__9;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#registro_servicios__9 {
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: registro servicios – 9;
+	--web-view-id: registro_servicios__9;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Diseada_por__Daniela_Gonzalez {
+	opacity: 0.52;
+	display: none;
+	left: 209px;
+	top: 651px;
+	position: absolute;
+	overflow: visible;
+	width: 165px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#degradado {
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Registrar_Servicio {
+	filter: drop-shadow(0px 3px 6px rgba(13, 217, 218, 0.188));
+	left: 62px;
+	top: 136px;
+	position: absolute;
+	overflow: visible;
+	width: 256px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(0,0,0,1);
+}
+#apagar {
+	opacity: 0.7;
+	mix-blend-mode: soft-light;
+	filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 39px;
+	height: 45px;
+	left: 33px;
+	top: 26px;
+	overflow: visible;
+}
+#ajustes {
+	opacity: 0.7;
+	mix-blend-mode: overlay;
+	position: absolute;
+	width: 45px;
+	height: 45px;
+	left: 298px;
+	top: 26px;
+	overflow: visible;
+}
+#n_ {
+	left: 123px;
+	top: 568px;
+	position: absolute;
+	overflow: visible;
+	width: 6px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(4,74,89,1);
+}
+#v_10 {
+	left: 334px;
+	top: 636px;
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Nombre_servicio {
+	left: 55px;
+	top: 195px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(4,74,89,1);
+}
+#Lnea_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_1 {
+	overflow: visible;
+	position: absolute;
+	width: 267.004px;
+	height: 2px;
+	left: 55px;
+	top: 250px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Descripcin {
+	left: 55px;
+	top: 260px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(4,74,89,1);
+}
+#Lnea_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_2 {
+	overflow: visible;
+	position: absolute;
+	width: 267.004px;
+	height: 2px;
+	left: 54px;
+	top: 315px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Categora_ {
+	left: 55px;
+	top: 325px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(4,74,89,1);
+}
+#LogoASPA {
+	position: absolute;
+	width: 76px;
+	height: 99.387px;
+	left: 150px;
+	top: 36.8px;
+	overflow: visible;
+}
+#apagar_b {
+	fill: rgba(4,74,89,1);
+}
+.apagar_b {
+	mix-blend-mode: soft-light;
+	filter: drop-shadow(0px 5px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	height: 63px;
+	left: 33px;
+	top: 26px;
+}
+#Rectngulo_1 {
+	filter: blur(21px);
+	fill: rgba(4,74,89,1);
+	stroke: rgba(4,74,89,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_1 {
+	mix-blend-mode: darken;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 228px;
+	height: 51px;
+	left: 85px;
+	top: 543px;
+}
+#Registrar {
+	left: 146px;
+	top: 545px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(4,74,89,1);
+}
+#apagar_ca {
+	filter: drop-shadow(0px 5px 6px rgba(65, 209, 209, 0.439));
+	position: absolute;
+	width: 39px;
+	height: 45px;
+	left: 38px;
+	top: 41px;
+	overflow: visible;
+}
+#ajustes_b {
+	filter: drop-shadow(0px 3px 6px rgba(67, 217, 217, 0.329));
+	position: absolute;
+	width: 45px;
+	height: 45px;
+	left: 299px;
+	top: 41px;
+	overflow: visible;
+}
+#Rectngulo_6 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_6 {
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	height: 28px;
+	left: 55px;
+	top: 353px;
+}
+#Rectngulo_7 {
+	fill: rgba(57,178,191,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_7 {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 28px;
+	left: 292px;
+	top: 353px;
+}
+#Polgono_1 {
+	fill: rgba(4,74,89,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polgono_1 {
+	overflow: visible;
+	position: absolute;
+	width: 19px;
+	height: 15px;
+	transform: matrix(1,0,0,1,300,360) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Rectngulo_11 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_11 {
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	height: 60px;
+	left: 55px;
+	top: 432px;
+}
+#Rectngulo_12 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_12 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 60px;
+	left: 134px;
+	top: 432px;
+}
+#Polgono_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polgono_2 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 6px;
+	left: 138px;
+	top: 436px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polgono_3 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polgono_3 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 6px;
+	transform: matrix(1,0,0,1,138,484) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Link {
+	left: 65px;
+	top: 439px;
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#QR {
+	left: 65px;
+	top: 464px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Lnea_5 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_5 {
+	overflow: visible;
+	position: absolute;
+	width: 159.006px;
+	height: 2px;
+	left: 164px;
+	top: 492px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ingrese_la_informacin {
+	opacity: 0.52;
+	left: 166px;
+	top: 472px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Servicio_1 {
+	left: 54px;
+	top: 230px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(4,74,89,1);
+}
+#dinero_ahorros {
+	left: 54px;
+	top: 290px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(4,74,89,1);
+}
+#selecciona_la_categora_del_ser {
+	opacity: 0.59;
+	left: 61px;
+	top: 359px;
+	position: absolute;
+	overflow: visible;
+	width: 174px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Medio_de_consulta_ {
+	left: 55px;
+	top: 394px;
+	position: absolute;
+	overflow: visible;
+	width: 139px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(4,74,89,1);
+}
+#flecha-curva2 {
+	position: absolute;
+	width: 43px;
+	height: 43px;
+	left: 166px;
+	top: 592px;
+	overflow: visible;
+}

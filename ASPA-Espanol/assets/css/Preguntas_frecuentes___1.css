@@ -1,0 +1,165 @@
+.mediaViewInfo {
+	--web-view-name: Preguntas frecuentes – 1;
+	--web-view-id: Preguntas_frecuentes__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Preguntas_frecuentes__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Preguntas_frecuentes__1 {
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	background-color: rgba(217,186,198,1);
+	overflow: hidden;
+	--web-view-name: Preguntas frecuentes – 1;
+	--web-view-id: Preguntas_frecuentes__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#degradado {
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#v_10 {
+	left: 334px;
+	top: 636px;
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Preguntas_Frecuentes {
+	filter: drop-shadow(0px 3px 6px rgba(13, 217, 218, 0.188));
+	left: 63px;
+	top: 142px;
+	position: absolute;
+	overflow: visible;
+	width: 250px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#LogoASPA {
+	position: absolute;
+	width: 76px;
+	height: 99.387px;
+	left: 150px;
+	top: 36.8px;
+	overflow: visible;
+}
+#flecha-curva2 {
+	position: absolute;
+	width: 43px;
+	height: 43px;
+	left: 166px;
+	top: 574px;
+	overflow: visible;
+}
+#n_Tengo_problemas_con_el_recon {
+	left: 64px;
+	top: 190px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	height: 60px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#n_Puedo_actualizar_los_datos_d {
+	left: 64px;
+	top: 328px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	height: 40px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#n_Cmo_puedo_comprobar_el_estad {
+	left: 64px;
+	top: 370px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	height: 40px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Qu_tipo_de_contenido_puedo_enc {
+	left: 64px;
+	top: 412px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	height: 40px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#Cmo_puedo_aadir_un_servicio_nu {
+	left: 64px;
+	top: 454px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	height: 40px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
+#R_vuelve_a_intentarlo_y_si_no_ {
+	left: 64px;
+	top: 256px;
+	position: absolute;
+	overflow: visible;
+	width: 249px;
+	height: 60px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 15px;
+	color: rgba(0,0,0,1);
+}
