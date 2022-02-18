@@ -1,0 +1,80 @@
+.mediaViewInfo {
+	--web-view-name: Reportar problema – 5;
+	--web-view-id: Reportar_problema__5;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Reportar_problema__5;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Reportar_problema__5 {
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	background-color: rgba(217,186,198,1);
+	overflow: hidden;
+	--web-view-name: Reportar problema – 5;
+	--web-view-id: Reportar_problema__5;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#degradado_ri {
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#v_10_rj {
+	left: 334px;
+	top: 636px;
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#LogoASPA_rk {
+	position: absolute;
+	width: 145px;
+	height: 190.387px;
+	left: 115px;
+	top: 165.613px;
+	overflow: visible;
+}
+#flecha-curva2_rl {
+	position: absolute;
+	width: 43px;
+	height: 43px;
+	left: 166px;
+	top: 574px;
+	overflow: visible;
+}
+#Thank_you_for_reporting_your_p {
+	left: 8px;
+	top: 356px;
+	position: absolute;
+	overflow: visible;
+	width: 361px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(4,74,89,1);
+}

@@ -1,0 +1,60 @@
+.mediaViewInfo {
+	--web-view-name: logo animado – 11;
+	--web-view-id: logo_animado__11;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: logo_animado__11;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#logo_animado__11 {
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: logo animado – 11;
+	--web-view-id: logo_animado__11;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#degradado {
+	opacity: 0.2;
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#v_10_da {
+	left: 334px;
+	top: 636px;
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#LogoASPA {
+	opacity: 0.2;
+	position: absolute;
+	width: 261px;
+	height: 341.387px;
+	left: 58px;
+	top: 181.8px;
+	overflow: visible;
+}

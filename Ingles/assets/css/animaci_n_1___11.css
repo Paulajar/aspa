@@ -1,0 +1,67 @@
+.mediaViewInfo {
+	--web-view-name: animación 1 – 11;
+	--web-view-id: animacin_1__11;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: animacin_1__11;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#animacin_1__11 {
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	background-color: rgba(57,178,191,1);
+	overflow: hidden;
+	--web-view-name: animación 1 – 11;
+	--web-view-id: animacin_1__11;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#v_10_bw {
+	left: 334px;
+	top: 636px;
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Rectngulo_4_bx {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_4_bx {
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 8px;
+	left: 80px;
+	top: 474px;
+}
+#LogoASPA_blancol_A {
+	position: absolute;
+	width: 261px;
+	height: 341.387px;
+	left: 57px;
+	top: 162.807px;
+	overflow: visible;
+}

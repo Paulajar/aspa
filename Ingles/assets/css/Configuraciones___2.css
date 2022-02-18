@@ -1,0 +1,226 @@
+.mediaViewInfo {
+	--web-view-name: Configuraciones – 2;
+	--web-view-id: Configuraciones__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Configuraciones__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Configuraciones__2 {
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	background-color: rgba(217,186,198,1);
+	overflow: hidden;
+	--web-view-name: Configuraciones – 2;
+	--web-view-id: Configuraciones__2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#degradado_m {
+	position: absolute;
+	width: 375px;
+	height: 667px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#v_10_na {
+	left: 334px;
+	top: 636px;
+	position: absolute;
+	overflow: visible;
+	width: 29px;
+	white-space: nowrap;
+	line-height: 32px;
+	margin-top: -9px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(0,0,0,1);
+}
+#Settings {
+	filter: drop-shadow(0px 3px 6px rgba(13, 217, 218, 0.188));
+	left: 130px;
+	top: 136px;
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 31px;
+	color: rgba(0,0,0,1);
+}
+#apagar_nc {
+	filter: drop-shadow(0px 5px 6px rgba(65, 209, 209, 0.439));
+	position: absolute;
+	width: 39px;
+	height: 45px;
+	left: 38px;
+	top: 41px;
+	overflow: visible;
+}
+#LogoASPA_nd {
+	position: absolute;
+	width: 76px;
+	height: 99.387px;
+	left: 150px;
+	top: 36.8px;
+	overflow: visible;
+}
+#flecha-curva2_ne {
+	position: absolute;
+	width: 43px;
+	height: 43px;
+	left: 305px;
+	top: 41px;
+	overflow: visible;
+}
+#Rectngulo_2_nf {
+	filter: blur(21px);
+	fill: rgba(67,217,217,1);
+	stroke: rgba(57,178,191,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_2_nf {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	height: 74px;
+	left: 59px;
+	top: 229px;
+}
+#profile_settings {
+	left: 117px;
+	top: 242px;
+	position: absolute;
+	overflow: visible;
+	width: 144px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: capitalize;
+}
+#Rectngulo_2_nh {
+	filter: blur(21px);
+	fill: rgba(67,217,217,1);
+	stroke: rgba(57,178,191,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_2_nh {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	height: 74px;
+	left: 59px;
+	top: 319px;
+}
+#About_App {
+	left: 138px;
+	top: 332px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: capitalize;
+}
+#Rectngulo_2_nj {
+	filter: blur(21px);
+	fill: rgba(67,217,217,1);
+	stroke: rgba(57,178,191,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_2_nj {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	height: 74px;
+	left: 59px;
+	top: 499px;
+}
+#HElp {
+	left: 166px;
+	top: 511px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: capitalize;
+}
+#Rectngulo_14 {
+	filter: blur(21px);
+	fill: rgba(67,217,217,1);
+	stroke: rgba(57,178,191,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectngulo_14 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	height: 74px;
+	left: 59px;
+	top: 409px;
+}
+#Change_Lenguage {
+	left: 109px;
+	top: 422px;
+	position: absolute;
+	overflow: visible;
+	width: 168px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	text-transform: capitalize;
+}
