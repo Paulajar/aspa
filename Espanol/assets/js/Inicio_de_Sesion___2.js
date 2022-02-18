@@ -4,6 +4,26 @@ $(document).ready(function() {
         window.location.href = 'Inicio_de_Sesi_n___3.html';
     });
 
+    //ingreso
+    $('#ingresar').click(function() {
+
+        //almacenar usuario que ingresa
+        var usuario = document.getElementById('usuario').value;
+        localStorage.setItem('usuario', usuario)
+
+        var passwd = document.getElementById('passwd').value;
+        var ing = document.querySelector('#ingresar')
+
+        if (usuario != '' && passwd != '') {
+            window.location.href = 'Men__de_servicios___9.html';
+        } else if (usuario === '') {
+            document.getElementById("msg_err").innerHTML = "Por favor ingrese un usuario";
+        } else if (passwd === '') {
+            document.getElementById("msg_err").innerHTML = "Por favor ingrese la contraseña";
+        }
+
+    })
+
     //ejecutar acción cuando den clic sobre el microfono
     $('#Elipse_1_fs').click(function() {
 

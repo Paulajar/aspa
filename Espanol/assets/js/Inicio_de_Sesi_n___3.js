@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    $('#registrar').click(function() {
+    $('#registrate').click(function() {
         window.location.href = 'Registro___4.html';
     });
 

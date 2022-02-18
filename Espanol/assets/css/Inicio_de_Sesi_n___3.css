@@ -37,25 +37,44 @@
     overflow: visible;
 }
 
-#Rectngulo_1 {
-    filter: blur(21px);
-    fill: rgba(67, 217, 217, 1);
-    stroke: rgba(67, 217, 217, 1);
-    stroke-width: 1px;
-    stroke-linejoin: miter;
-    stroke-linecap: round;
-    stroke-miterlimit: 4;
-    shape-rendering: auto;
-}
-
-.Rectngulo_1 {
-    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+.btn_reg {
     position: absolute;
     overflow: visible;
-    width: 278px;
-    height: 74px;
-    left: 59px;
-    top: 401px;
+    width: 240px;
+    height: 65px;
+    left: 60px;
+    top: 380px;
+    background-color: rgba(187, 220, 230, 0.356);
+    border-radius: 10px;
+    border-color: rgba(4, 74, 89, 1);
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(4, 74, 89, 1);
+}
+
+.btn_id {
+    position: absolute;
+    overflow: visible;
+    width: 240px;
+    height: 65px;
+    left: 60px;
+    top: 258px;
+    background-color: rgba(187, 220, 230, 0.356);
+    border-radius: 10px;
+    border-color: rgba(4, 74, 89, 1);
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(4, 74, 89, 1);
 }
 
 #Identifcate {
@@ -90,27 +109,6 @@
     font-weight: bold;
     font-size: 30px;
     color: rgba(4, 74, 89, 1);
-}
-
-#Rectngulo_2 {
-    filter: blur(21px);
-    fill: rgba(67, 217, 217, 1);
-    stroke: rgba(67, 217, 217, 1);
-    stroke-width: 1px;
-    stroke-linejoin: miter;
-    stroke-linecap: round;
-    stroke-miterlimit: 4;
-    shape-rendering: auto;
-}
-
-.Rectngulo_2 {
-    filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
-    position: absolute;
-    overflow: visible;
-    width: 278px;
-    height: 74px;
-    left: 59px;
-    top: 280px;
 }
 
 #Regstrate {
@@ -153,9 +151,4 @@
     left: 149.5px;
     top: 36.8px;
     overflow: visible;
-}
-
-.fcc-btn {
-    background-color: #199319;
-    color: white;
 }
