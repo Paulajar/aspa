@@ -68,13 +68,14 @@
 	top: 258px;
 }
 #Ingls {
-	left: 160px;
+	display: flexbox;
+	width: 100%;
+	align-items: center;
 	top: 272px;
 	position: absolute;
 	overflow: visible;
-	width: 57px;
+	width: 100%;
 	white-space: nowrap;
-	text-align: left;
 	font-family: Segoe UI;
 	font-style: normal;
 	font-weight: bold;
@@ -127,4 +128,23 @@
 	font-weight: lighter;
 	font-size: 20px;
 	color: rgba(0,0,0,1);
+}
+
+.btn_reg {
+    position: relative;
+    overflow: visible;
+    width: 240px;
+    height: 65px;
+    background-color: rgba(187, 220, 230, 0.356);
+    border-radius: 10px;
+    border-color: rgba(4, 74, 89, 1);
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(4, 74, 89, 1);
+	margin-left: 75px;
 }
