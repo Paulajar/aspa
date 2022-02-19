@@ -224,3 +224,51 @@
 	color: rgba(0,0,0,1);
 	text-transform: capitalize;
 }
+
+
+.btn_id {
+    position: absolute;
+    overflow: visible;
+    width: 240px;
+    height: 65px;
+    left: 60px;
+    top: 258px;
+    background-color: rgba(187, 220, 230, 0.356);
+    border-radius: 10px;
+    border-color: rgba(4, 74, 89, 1);
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(4, 74, 89, 1);
+}
+
+
+#botones {
+	display: flexbox;
+	flex-direction: column;
+}
+
+.btn_reg {
+    position: relative;
+    overflow: visible;
+    width: 70%;
+    height: 3rem;
+    left: 60px;
+    top: 250px;
+    background-color: rgba(187, 220, 230, 0.356);
+    border-radius: 10px;
+    border-color: rgba(4, 74, 89, 1);
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+	font-weight: bolder;
+    font-size: 20px;
+    color: rgba(4, 74, 89, 1);
+	margin-bottom: 1rem;
+}
